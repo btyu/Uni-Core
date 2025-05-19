@@ -1,6 +1,13 @@
 Uni-Core, an efficient distributed PyTorch framework
 ====================================================
 
+⚠️ Notice
+
+This repository is a restored copy of [dptech-corp/Uni-Core](https://github.com/dptech-corp/Uni-Core),
+which is no longer available on GitHub. All credit goes to the original authors.
+
+---
+
 Uni-Core is built for rapidly creating PyTorch models with high performance, especially for Transfromer-based models. It supports the following features:
 - Distributed training over multi-GPUs and multi-nodes
 - Mixed-precision training with fp16 and bf16
